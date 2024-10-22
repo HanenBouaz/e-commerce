@@ -13,7 +13,7 @@
     "env": {
         "APP_ENV": "production",
         "APP_DEBUG": "true",
-        "APP_URL": "https://vercel.com/nourabdelhedis-projects",
+        "APP_URL": "https://vercel.com/hanens-projects-fe5f66e5/e-commerce",
         "APP_KEY": "base64:gnobFNLCMLu+hU38HmY26i6FZQYf21fiCFUsEpL7qus=",
         "APP_CONFIG_CACHE": "/tmp/config.php",
         "APP_EVENTS_CACHE": "/tmp/events.php",
